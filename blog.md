@@ -2,9 +2,9 @@
 
 ### Here are my scribbles, behold.
 
-**First week on the red pills**
-
 **08/25/2022**
+
+**First week on the red pills**
 
 ***Was your first week what you expected? Why? Why not?***
 
