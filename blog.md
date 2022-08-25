@@ -4,6 +4,7 @@
 
 #### Here are my scribbles, behold.
 
+```
 First week on the red pills
 
 08/25/2022
@@ -22,3 +23,4 @@ to accomplish is to build a chess engine from scratch!
 What is something about you that can only be learned by reading this blog?
 
 Something you will only learn about me on this blog is that I think Tim Henson is the most technically proficient guitarist to ever live.
+```
