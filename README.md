@@ -1,4 +1,1 @@
-
-# The Chronicling of the Code #
-
-#### One mans journey to computational enlightenment ####
+This is the readme for my blog
