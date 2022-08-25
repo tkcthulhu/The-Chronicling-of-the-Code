@@ -1,4 +1,3 @@
-# The Chronicling of the Code #
 ## One mans journey to computational enlightenment
 
 ### Here are my scribbles, behold.
