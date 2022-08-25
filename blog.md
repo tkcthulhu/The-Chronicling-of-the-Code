@@ -2,6 +2,8 @@
 
 #### One mans journey to computational enlightenment
 
+#### Here are my scribbles, behold.
+
 First week on the red pills
 
 08/25/2022
