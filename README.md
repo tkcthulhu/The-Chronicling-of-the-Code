@@ -1,2 +1,2 @@
-# tkcthulhu-blog
-Chronicling the Code
+# The Chronicling of the Code #
+
