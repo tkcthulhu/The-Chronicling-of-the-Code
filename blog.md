@@ -19,6 +19,6 @@ to accomplish is to build a chess engine from scratch!
 
 ***What is something about you that can only be learned by reading this blog?***
 
-> Something you will only learn about me on this blog is that I think Tim Henson is the most technically proficient guitarist to ever live.
+> That I think Tim Henson is the most technically proficient guitarist to ever live.
 
 >![Tim Henson](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfo9PACx-E9qfbAZUN325IUBHrHnKUi2gOTw&usqp=CAU)
