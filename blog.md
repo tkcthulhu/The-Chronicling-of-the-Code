@@ -1,10 +1,10 @@
-## One mans journey to computational enlightenment
+## One mans journey towards computational enlightenment
 
 ### Here are my scribbles, behold.
 
 **08/25/2022**
 
-**First week on the red pills**
+**First week on the Red Pills :pill:**
 
 ***Was your first week what you expected? Why? Why not?***
 
