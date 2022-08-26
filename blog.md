@@ -9,10 +9,10 @@
 ***Was your first week what you expected? Why? Why not?***
 
 > So, my first week at Awesome Inc., to be honest I had no idea what to expect here but have been pleasantly surprised all the same. I'm 
-getting to know my computer much more than I ever have, and getting familiar with so many different things is a bit daunting, but I can't
-wait to keep pushing forward and see where I am in 16 weeks!
+getting to know my computer much more than I ever have, and getting familiar with so many different things is a bit daunting, but I'm excited
+to keep pushing forward and see what I can accomplish!
 
-***Was your first week what you expected? Why? Why not?***
+***What are you excited or eager to learn more about?***
 
 > Something I can't wait to learn more about is programming problem solving engines and what all goes into AI. A future challenge I'd like 
 to accomplish is to build a chess engine from scratch!
