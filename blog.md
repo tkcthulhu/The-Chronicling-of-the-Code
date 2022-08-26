@@ -9,8 +9,8 @@
 ***Was your first week what you expected? Why? Why not?***
 
 > So, my first week at Awesome Inc., to be honest I had no idea what to expect here but have been pleasantly surprised all the same. I'm 
-getting to know my computer much more than I ever have, and getting familiar with so many different things is a bit daunting, but I'm excited
-to keep pushing forward and see what I can accomplish!
+getting to know my computer much more than I ever have, and getting familiar with so many different tools is a bit daunting, but I'm excited
+to keep pushing forward and see what I can accomplish! My time managment wasn't exactly what I wanted it to be this week and I wish I had been able to put more time into the first iteration of this blog, but 20/20 hindsight right? I do suppose I have 15 more weeks to work on it.
 
 ***What are you excited or eager to learn more about?***
 
