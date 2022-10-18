@@ -3,8 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import { Header } from './Header';
 import { Navbar } from './Navbar';
-import { ContactCard } from './contact-card';
-import { Blog1 } from './Blog'
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
@@ -14,8 +12,6 @@ root.render(
   <>
     <Header />
     <Navbar />
-    <Blog1 />
-    <ContactCard />
   </>
 );
 

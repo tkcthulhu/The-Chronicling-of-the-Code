@@ -3,7 +3,7 @@ import './index.css';
 
 
 
-export function Header(props) {
+export function Header() {
     return(
         <div className="container-fluid black" id='header'>
             <div className="row jusifty-content-center">
@@ -14,7 +14,7 @@ export function Header(props) {
                 <div className="col text-white" id="title">
                     <h1><strong>Tyler Consalvi</strong></h1>
                     <br/>
-                    <h3>Full Stack Development</h3>
+                    <h3>Full Stack Developer</h3>
                 </div>
             </div>
         </div>

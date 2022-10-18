@@ -5,12 +5,12 @@ import logo from './img/logo.png'
 export function ContactCard() {
     return(
         <div className="row justify-content-center">
-            <div className="col-3">
+            <div className="col-lg-4 col-md-5 col-sm-6">
                 <div className="card" id='contact-card'>
                     <div className="card-header text-white">
                         <div className="row justify-content-center">
                             <div className="col d-flex justify-content-end">
-                                <h2>Tyler Consalvi</h2>
+                                <h3>Tyler Consalvi</h3>
                             </div>
                             <div className="col-3 d-flex justify-content-end">
                                 <img className='' src={logo} height='50' width='55'/>
@@ -18,7 +18,7 @@ export function ContactCard() {
                         </div>
                         <div className='row justify-content-center'>
                             <img src={myFace} className='card-image-top ratio ratio9x7' id='myFace'/>
-                            <p className='card-text text-white d-flex justify-content-center'>Let's start your project!</p>
+                            <p className='card-text text-white d-flex justify-content-center'>I was top of my class in home school</p>
                             <div className='row justify-content-center'>
                                 <div className="col d-flex justify-content-center contact-icons">
                                     <svg 

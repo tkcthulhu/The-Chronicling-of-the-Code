@@ -5,6 +5,8 @@
 #contact-card {
     background-image: url(./img/marble.jpg);
     font-family: 'Source Code Pro', monospace;
+    margin: 5vh 5vw;
+    border: 1px solid white
 }
 
 #contact-icons {

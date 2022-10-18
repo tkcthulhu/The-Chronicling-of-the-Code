@@ -1,38 +1,66 @@
+import React from 'react';
 import './index.css';
+import { Blog } from './Blog'
+import { ContactCard } from './contact-card';
 
-export function Navbar(props) {
+export function Navbar() {
+
+    const [ page, setPage ] = React.useState('Home')
+
     return (
+        <>
         <div class="container-fluid black" id="navContainer">
             <div class="navbar navbar-expand-lg justify-content-end" id="navRow">
                 <ul class="navbar-nav" id="navBar">
                     <li class="nav-item">
-                        <a class="nav-link text-white" 
-                            href="/index.html">//HOME
+                        <a 
+                            class="nav-link text-white" 
+                            onClick={() => setPage('Home')}
+                        >
+                        //HOME
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" 
-                            href="/Blog.js">//BLOG
-                            
+                        <a 
+                            class="nav-link text-white" 
+                            onClick={() => setPage('Blog')}
+                        >
+                        //BLOG    
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" 
-                            href="/pages/about-me.html">//ABOUT ME
+                        <a 
+                            class="nav-link text-white" 
+                            onClick={() => setPage('AboutMe')}
+                        >
+                        //ABOUT ME
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" 
-                            href="/pages/my-work.html">//MY WORK
+                        <a 
+                            class="nav-link text-white" 
+                            onClick={() => setPage('MyWork')}
+                        >
+                        //MY WORK
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" 
-                            href="/pages/contact-card.html">//CONTACT ME
+                        <a 
+                            class="nav-link text-white" 
+                            onClick={() => setPage('ContactMe')}
+                        >
+                        //CONTACT ME
                         </a>
                     </li>
                 </ul>
             </div>
         </div>
+        {/* { page === 'Home' && <Home />} */}
+        { page === 'Blog' && <Blog />}
+        {/* { page === 'Home' && <Home />} */}
+        {/* { page === 'Home' && <Home />} */}
+        { page === 'ContactMe' && <ContactCard />}
+
+        </>
     )
 }
