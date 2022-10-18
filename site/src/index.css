@@ -1,12 +1,15 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+#root {
   font-family: 'Courier New', Courier, monospace;
   background-color: black;
+  font-family: 'Source Code Pro', monospace;
 }
 
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
+#header {
+  padding-top: 2vh;
+  font-family: 'Source Code Pro', monospace;
+}
 
 .black {
   background-color: black;

@@ -1,0 +1,12 @@
+#myFace {
+    border-radius: 50%;
+}
+
+#contact-card {
+    background-image: url(./img/marble.jpg);
+    font-family: 'Source Code Pro', monospace;
+}
+
+#contact-icons {
+    content: icon;
+}
