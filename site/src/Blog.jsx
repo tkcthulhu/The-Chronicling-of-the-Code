@@ -2,7 +2,7 @@ export function Blog() {
     return(
         <div className="container-fluid black">
             <div className="row justify-content-center">
-                <p className="text-white col-8">                    
+                <p className="text-white col-8 blog">                    
                     <bold>One mans journey towards computational enlightenment</bold>
                     <br/>
                     <br/>
@@ -37,7 +37,7 @@ export function Blog() {
                     <br/>
                     <br/>
                 </p>
-                <p className="text-white col-8">
+                <p className="text-white col-8 blog">
                     <bold><h4>09/02/2022</h4></bold>
                     <br/>
                     <bold>Failing Forward</bold>

@@ -1,6 +1,7 @@
 import React from 'react';
 import './index.css';
 import { Blog } from './Blog'
+import { ProjectsPage } from './Projects';
 import { ContactCard } from './contact-card';
 
 export function Navbar() {
@@ -58,7 +59,7 @@ export function Navbar() {
         {/* { page === 'Home' && <Home />} */}
         { page === 'Blog' && <Blog />}
         {/* { page === 'Home' && <Home />} */}
-        {/* { page === 'Home' && <Home />} */}
+        { page === 'MyWork' && <ProjectsPage />}
         { page === 'ContactMe' && <ContactCard />}
 
         </>
