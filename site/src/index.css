@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
+@keyframes fadeIn { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+  } 
+
+  .fadeIn {
+    animation: fadeIn 3s;
+}
+
 #root {
   font-family: 'Courier New', Courier, monospace;
   background-color: black;
@@ -35,4 +44,19 @@
   padding-right: 3vw;
   margin-top: 3.5vh;
   margin-bottom: 3.5vh;
+}
+
+.blog-title {
+  text-decoration: underline;
+}
+
+.overlay {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 57.5%;
+  width: 57.5%;
+  opacity: 80;
+  transition: .3s ease;
 }

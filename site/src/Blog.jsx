@@ -2,19 +2,20 @@ export function Blog() {
     return(
         <div className="container-fluid black">
             <div className="row justify-content-center">
+                <h2 className="text-white col-8 blog-title">The Chronicling of the Code</h2>
                 <p className="text-white col-8 blog">                    
-                    <bold>One mans journey towards computational enlightenment</bold>
+                    <strong>One mans journey towards computational enlightenment</strong>
                     <br/>
                     <br/>
-                    <bold>Here are my scribbles, behold.</bold>
+                    <strong>Here are my scribbles, behold.</strong>
                     <br/>
                     <br/>
-                    <bold><h4>08/25/2022</h4></bold>
+                    <strong><h4>08/25/2022</h4></strong>
                     <br/>
-                    <bold>First week on the Red Pills ☎️ 💊</bold>
+                    <strong>First week on the Red Pills ☎️ 💊</strong>
                     <br/>
                     <br/>
-                    <bold>Was your first week what you expected? Why? Why not?</bold>
+                    <strong>Was your first week what you expected? Why? Why not?</strong>
                     <br/>
                     <br/>       
                     So, my first week at Awesome Inc., to be honest I had no idea what to expect here but have been pleasantly surprised all the same. I'm 
@@ -23,14 +24,14 @@ export function Blog() {
                     able to put more time into the first iteration of this blog, but 20/20 hindsight right? I do suppose I have 15 more weeks to work on it.
                     <br/>
                     <br/>
-                    <bold>What are you excited or eager to learn more about?</bold>
+                    <strong>What are you excited or eager to learn more about?</strong>
                     <br/>
                     <br/>
                     Something I can't wait to learn more about is programming problem solving engines and what all goes into AI. A future challenge I'd like 
                     to accomplish is to build a chess engine from scratch!
                     <br/>
                     <br/>
-                    <bold>What is something about you that can only be learned by reading this blog?</bold>
+                    <strong>What is something about you that can only be learned by reading this blog?</strong>
                     <br/>
                     <br/>
                     That I think Tim Henson is the most technically proficient guitarist to ever live.
@@ -38,37 +39,59 @@ export function Blog() {
                     <br/>
                 </p>
                 <p className="text-white col-8 blog">
-                    <bold><h4>09/02/2022</h4></bold>
+                    <strong><h4>09/02/2022</h4></strong>
                     <br/>
-                    <bold>Failing Forward</bold>
+                    <strong>Failing Forward</strong>
                     <br/>
                     <br/>
-                    <bold>What is something you wish you could do but currently do not have the coding skills to accomplish?</bold>
+                    <strong>What is something you wish you could do but currently do not have the coding skills to accomplish?</strong>
                     <br/>
                     <br/>
                     Something I'd be really interested to get better at is fleshed out NAV menus with drop down menus and everything, like with a full animation.
                     <br/>
                     <br/>
-                    <bold>What are you struggling with?</bold>
+                    <strong>What are you struggling with?</strong>
                     <br/>
                     <br/>
                     Apparently reading a project description thoroughly.
                     <br/>
                     <br/>
-                    <bold>How do you solve a problem?</bold>
+                    <strong>How do you solve a problem?</strong>
                     <br/>
                     <br/>
                     Generally I like to envision my end product, then I take account of all the tools I have availible, then think about how I can implement each tool efficently.
                     <br/>
                     <br/>
-                    <bold>What methods do you use to help yourself get unstuck?</bold>
+                    <strong>What methods do you use to help yourself get unstuck?</strong>
                     <br/>
                     <br/>
                     Smacking my head againt it for a while generally works pretty well, but honestly, I'll pick an approach and stick with that for a while with various modifiecations, 
                     if that doesn't end up working I will take a step back and try to reasses my approach and make changes if I need to, research the issue, and come back with new tools.
                     <br/>
                     <br/>
-                </p>                
+                </p> 
+                <p className="text-white col-8">
+                    <strong><h4>09/09/2022</h4></strong>
+                    <br/>
+                    <br/>
+                    <strong>Learning the Ropes</strong>
+                    <br/>
+                    <br/>
+                    <strong>What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?</strong>
+                    <br/>
+                    <br/>
+                    Personally, I think it's definitley important to keep everything somewhat seperate. I like the idea of how each one builds on the functionality of another one. 
+                    HTML and CSS are absolutely the most "user friendly" and closest to plain english, like "hmmmm what could backgroound-color: red possibly mean? Javascript is much 
+                    more challenging but still as I'm learning, it continues to make sense once you get past reading the syntax.
+                    <br/>
+                    <br/>
+                    <strong>What are your thoughts on pseudocoding?</strong>
+                    <br/>
+                    <br/>
+                    Love it, for someone who has very little experience with any sort of actual coding but has done many projects of other sorts its incredibly helpful. I find that no 
+                    matter what project I'm working on that it is only as good as how well I've planned it. This is a great way for me to break things down into steps that I can then look 
+                    up and get the actual syntax for what I'm trying to achieve and learn.
+                </p>               
             </div>            
         </div>
     )

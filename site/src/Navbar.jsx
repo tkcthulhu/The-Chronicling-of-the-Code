@@ -1,5 +1,6 @@
 import React from 'react';
 import './index.css';
+import { Home } from './Home';
 import { Blog } from './Blog'
 import { AboutMe } from './About-Me';
 import { ProjectsPage } from './Projects';
@@ -57,7 +58,7 @@ export function Navbar() {
                 </ul>
             </div>
         </div>
-        {/* { page === 'Home' && <Home />} */}
+        { page === 'Home' && <Home />}
         { page === 'Blog' && <Blog />}
         { page === 'AboutMe' && <AboutMe />}
         { page === 'MyWork' && <ProjectsPage />}
