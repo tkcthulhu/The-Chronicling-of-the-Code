@@ -3,9 +3,9 @@
 @keyframes fadeIn { 
   0% { opacity: 0; }
   100% { opacity: 1; }
-  } 
+} 
 
-  .fadeIn {
+.fadeIn {
     animation: fadeIn 3s;
 }
 
@@ -36,8 +36,8 @@
   text-decoration: underline;
 }
 
-.proj-desc {
-}
+/* .proj-desc {
+} */
 
 .proj-row {
   padding-left: 3vw;
@@ -58,5 +58,25 @@
   height: 57.5%;
   width: 57.5%;
   opacity: 80;
-  transition: .3s ease;
+}
+
+#home-pic {
+  width: fit-content;
+  border-radius: 15px;
+}
+
+.title-row {
+  padding-bottom: 5vh;
+}
+
+.about-me-row {
+  padding-bottom: 15vh;
+}
+
+.about-me-title {
+  text-decoration: underline;
+}
+
+.about-me-pic {
+  border-radius: 15px;
 }
