@@ -13,7 +13,7 @@ export function Navbar() {
     return (
         <>
         <div class="container-fluid black" id="navContainer">
-            <div class="navbar navbar-expand-lg justify-content-end" id="navRow">
+            <div class="navbar navbar-expand-lg justify-content-center" id="navRow">
                 <ul class="navbar-nav" id="navBar">
                     <li class="nav-item">
                         <a 

@@ -9,6 +9,10 @@
     animation: fadeIn 3s;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 #root {
   font-family: 'Courier New', Courier, monospace;
   background-color: black;
@@ -22,8 +26,9 @@
 }
 
 #navContainer {
-   padding-top: 10px;
-   padding-right: 20px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-top: 30px;
    margin-bottom: 30px;
 }
 
@@ -54,7 +59,7 @@
 }
 
 .blog-title {
-  text-decoration: underline;
+  text-align: center;
 }
 
 .overlay {
@@ -90,5 +95,5 @@
 }
 
 .about-me {
-  padding-left: 20px;
+  padding-top: 20px;
 }

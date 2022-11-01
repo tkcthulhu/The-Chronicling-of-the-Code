@@ -2,8 +2,8 @@ export function Blog() {
     return(
         <div className="container-fluid black">
             <div className="row justify-content-center">
-                <h2 className="text-white col-8 blog-title">The Chronicling of the Code</h2>
-                <p className="text-white col-8 blog">   
+                <span className="text-white blog-title col-8">
+                    <h2 className="underline">The Chronicling of the Code</h2>
                     <br/>
                     <br/>             
                     <h4><em>One mans journey towards computational enlightenment</em></h4>
@@ -11,6 +11,9 @@ export function Blog() {
                     <h4><em>Here are my scribbles, behold.</em></h4>
                     <br/>
                     <br/>
+                </span>
+                <p className="text-white col-8 blog">   
+                    
                     <strong><h5>08/25/2022</h5></strong>
                     <br/>
                     <strong>First week on the Red Pills ☎️ 💊</strong>

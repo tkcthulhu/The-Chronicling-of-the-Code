@@ -3,12 +3,12 @@ import initials from './img/Initials.png'
 
 export function AboutMe(props) {
     return(
-        <div className="container">
+        <div className="container about-me">
             <div className="row about-me-row">
                 <div className="col-6">
                     <img src={coffeeComputer} className='ratio ratio-1x1 about-me-pic' />
                 </div>
-                <div className="col-6 about-me">
+                <div className="col-6 about-me-text">
                     <h4 className='about-me-title text-white'>The Chronicling of the Code</h4>
                     <br/>
                     <br/>
