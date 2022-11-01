@@ -3,7 +3,7 @@ import initials from './img/Initials.png'
 
 export function AboutMe(props) {
     return(
-        <div className="container about-me">
+        <div className="container about-me page-div">
             <div className="row about-me-row">
                 <div className="col-6">
                     <img src={coffeeComputer} className='ratio ratio-1x1 about-me-pic' />

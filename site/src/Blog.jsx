@@ -1,6 +1,6 @@
 export function Blog() {
     return(
-        <div className="container-fluid black">
+        <div className="container-fluid black page-div">
             <div className="row justify-content-center">
                 <span className="text-white blog-title col-8">
                     <h2 className="underline">The Chronicling of the Code</h2>

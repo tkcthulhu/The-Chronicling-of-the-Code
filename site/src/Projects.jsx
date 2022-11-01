@@ -57,7 +57,9 @@ export function ProjectsPage(props) {
     } 
     return(
         <>
-            {projCreator(projects)}
+            <div className="container-fluid page-div">
+                {projCreator(projects)}
+            </div>
         </>
     )
 }

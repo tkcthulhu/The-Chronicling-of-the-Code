@@ -73,6 +73,10 @@
   opacity: 80;
 }
 
+.page-div {
+  padding-bottom: 20vh;
+}
+
 #home-pic {
   width: 110vw;
   animation: fadeIn 2s;
