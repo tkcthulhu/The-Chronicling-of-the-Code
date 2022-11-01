@@ -8,7 +8,7 @@ import { ContactCard } from './contact-card';
 
 export function Navbar() {
 
-    const [ page, setPage ] = React.useState('Home')
+    const [ page, setPage ] = React.useState('AboutMe')
 
     return (
         <>
@@ -18,17 +18,9 @@ export function Navbar() {
                     <li class="nav-item">
                         <a 
                             class="nav-link text-white" 
-                            onClick={() => setPage('Home')}
-                        >
-                        //HOME
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a 
-                            class="nav-link text-white" 
                             onClick={() => setPage('Blog')}
                         >
-                        //BLOG    
+                        <h4>//BLOG</h4>    
                         </a>
                     </li>
                     <li class="nav-item">
@@ -36,7 +28,7 @@ export function Navbar() {
                             class="nav-link text-white" 
                             onClick={() => setPage('AboutMe')}
                         >
-                        //ABOUT ME
+                        <h4>//ABOUT ME</h4>
                         </a>
                     </li>
                     <li class="nav-item">
@@ -44,7 +36,7 @@ export function Navbar() {
                             class="nav-link text-white" 
                             onClick={() => setPage('MyWork')}
                         >
-                        //MY WORK
+                        <h4>//MY WORK</h4>
                         </a>
                     </li>
                     <li class="nav-item">
@@ -52,13 +44,12 @@ export function Navbar() {
                             class="nav-link text-white" 
                             onClick={() => setPage('ContactMe')}
                         >
-                        //CONTACT ME
+                        <h4>//CONTACT ME</h4>
                         </a>
                     </li>
                 </ul>
             </div>
         </div>
-        { page === 'Home' && <Home />}
         { page === 'Blog' && <Blog />}
         { page === 'AboutMe' && <AboutMe />}
         { page === 'MyWork' && <ProjectsPage />}

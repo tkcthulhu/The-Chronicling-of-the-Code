@@ -15,9 +15,16 @@
   font-family: 'Source Code Pro', monospace;
 }
 
-#header {
-  padding-top: 2vh;
-  font-family: 'Source Code Pro', monospace;
+.initials {
+  height: 140px;
+  width: 140px;
+  padding-right: 25px;
+}
+
+#navContainer {
+   padding-top: 10px;
+   padding-right: 20px;
+   margin-bottom: 30px;
 }
 
 .black {
@@ -52,7 +59,7 @@
 
 .overlay {
   position: absolute;
-  top: 60%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   height: 57.5%;
@@ -61,6 +68,7 @@
 }
 
 #home-pic {
+  margin-top: 40px;
   width: fit-content;
   border-radius: 15px;
 }
@@ -79,4 +87,8 @@
 
 .about-me-pic {
   border-radius: 15px;
+}
+
+.about-me {
+  padding-left: 20px;
 }
