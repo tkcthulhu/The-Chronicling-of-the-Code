@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/The-Chronicling-of-the-Code/static/css/main.f15052ad.css",
-    "main.js": "/The-Chronicling-of-the-Code/static/js/main.ece30e80.js",
+    "main.css": "/The-Chronicling-of-the-Code/static/css/main.b6de515f.css",
+    "main.js": "/The-Chronicling-of-the-Code/static/js/main.86b8f77a.js",
     "static/js/787.dd4029b4.chunk.js": "/The-Chronicling-of-the-Code/static/js/787.dd4029b4.chunk.js",
     "static/media/consalvi-tyler.jpg": "/The-Chronicling-of-the-Code/static/media/consalvi-tyler.a19e623239f5fc96f1e2.jpg",
+    "static/media/home.jpg": "/The-Chronicling-of-the-Code/static/media/home.473cf1e39c511a117d65.jpg",
     "static/media/background.jpeg": "/The-Chronicling-of-the-Code/static/media/background.76856d09af12cf004cb7.jpeg",
     "static/media/logo.png": "/The-Chronicling-of-the-Code/static/media/logo.2075d9d04656a0ab024f.png",
     "static/media/marble.jpg": "/The-Chronicling-of-the-Code/static/media/marble.d15b5704fb3dbed5b0e7.jpg",
-    "static/media/home.jpg": "/The-Chronicling-of-the-Code/static/media/home.9700e4ccb3c12df0cfec.jpg",
     "static/media/logoName.png": "/The-Chronicling-of-the-Code/static/media/logoName.3ed0fe3d29fd3e9d95e1.png",
     "index.html": "/The-Chronicling-of-the-Code/index.html",
-    "main.f15052ad.css.map": "/The-Chronicling-of-the-Code/static/css/main.f15052ad.css.map",
-    "main.ece30e80.js.map": "/The-Chronicling-of-the-Code/static/js/main.ece30e80.js.map",
+    "main.b6de515f.css.map": "/The-Chronicling-of-the-Code/static/css/main.b6de515f.css.map",
+    "main.86b8f77a.js.map": "/The-Chronicling-of-the-Code/static/js/main.86b8f77a.js.map",
     "787.dd4029b4.chunk.js.map": "/The-Chronicling-of-the-Code/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f15052ad.css",
-    "static/js/main.ece30e80.js"
+    "static/css/main.b6de515f.css",
+    "static/js/main.86b8f77a.js"
   ]
 }
