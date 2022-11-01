@@ -2,11 +2,12 @@
 
 @keyframes fadeIn { 
   0% { opacity: 0; }
+  20% {opacity: 0;}
   100% { opacity: 1; }
 } 
 
 .fadeIn {
-    animation: fadeIn 3s;
+    animation: fadeIn 6s;
 }
 
 .underline {
@@ -26,10 +27,10 @@
 }
 
 #navContainer {
-   padding-top: 20px;
-   padding-bottom: 20px;
-   margin-top: 30px;
-   margin-bottom: 30px;
+  animation: fadeIn 3s;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .black {
@@ -64,7 +65,7 @@
 
 .overlay {
   position: absolute;
-  top: 40%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   height: 57.5%;
@@ -73,9 +74,8 @@
 }
 
 #home-pic {
-  margin-top: 40px;
-  width: fit-content;
-  border-radius: 15px;
+  width: 110vw;
+  animation: fadeIn 2s;
 }
 
 .title-row {
@@ -95,5 +95,6 @@
 }
 
 .about-me {
+  animation: fadeIn 3s;
   padding-top: 20px;
 }
