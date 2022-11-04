@@ -74,6 +74,7 @@
 }
 
 .page-div {
+  animation: fadeIn 3s;
   padding-bottom: 20vh;
 }
 
@@ -99,6 +100,5 @@
 }
 
 .about-me {
-  animation: fadeIn 3s;
   padding-top: 20px;
 }
