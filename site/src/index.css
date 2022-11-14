@@ -6,6 +6,12 @@
   100% { opacity: 1; }
 } 
 
+@keyframes fadeInPic { 
+  0% { opacity: 0; }
+  20% {opacity: 0;}
+  100% { opacity: .75; }
+} 
+
 .fadeIn {
     animation: fadeIn 6s;
 }
@@ -80,7 +86,8 @@
 
 #home-pic {
   width: 110vw;
-  animation: fadeIn 2s;
+  animation: fadeInPic 2s;
+  opacity: 75%;
 }
 
 .title-row {
@@ -101,4 +108,25 @@
 
 .about-me {
   padding-top: 20px;
+}
+
+.tech-stack {
+  border: 1px solid white;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+  padding-bottom: 40px;
+}
+
+.my-stack-row {
+  margin: 7.5px;
+}
+
+.nav-butt {
+  margin-left: 7.5vw;
+  margin-right: 7.5vw;
+}
+
+.tech-stack-title {
+  margin-bottom: 20px;
 }

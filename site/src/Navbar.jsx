@@ -1,10 +1,10 @@
 import React from 'react';
 import './index.css';
-import { Home } from './Home';
 import { Blog } from './Blog'
 import { AboutMe } from './About-Me';
 import { ProjectsPage } from './Projects';
 import { ContactCard } from './contact-card';
+import './button-effects.sass'
 
 export function Navbar() {
 
@@ -12,40 +12,40 @@ export function Navbar() {
 
     return (
         <>
-        <div class="container-fluid black" id="navContainer">
-            <div class="navbar navbar-expand-lg justify-content-center" id="navRow">
-                <ul class="navbar-nav" id="navBar">
-                    <li class="nav-item">
-                        <a 
-                            class="nav-link text-white" 
+        <div className="container-fluid black" id="navContainer">
+            <div className="navbar navbar-expand-lg justify-content-center" id="navRow">
+                <ul className="navbar-nav" id="navBar">
+                    <li className="nav-item">
+                        <div 
+                            className="nav-link text-white nav-butt nav-button type1" 
                             onClick={() => setPage('Blog')}
                         >
                         <h4>//BLOG</h4>    
-                        </a>
+                        </div>
                     </li>
-                    <li class="nav-item">
-                        <a 
-                            class="nav-link text-white" 
+                    <li className="nav-item">
+                        <div 
+                            className="nav-link text-white nav-butt nav-button type1" 
                             onClick={() => setPage('AboutMe')}
                         >
                         <h4>//ABOUT ME</h4>
-                        </a>
+                        </div>
                     </li>
-                    <li class="nav-item">
-                        <a 
-                            class="nav-link text-white" 
+                    <li className="nav-item">
+                        <div 
+                            className="nav-link text-white nav-butt nav-button type1" 
                             onClick={() => setPage('MyWork')}
                         >
                         <h4>//MY WORK</h4>
-                        </a>
+                        </div>
                     </li>
-                    <li class="nav-item">
-                        <a 
-                            class="nav-link text-white" 
+                    <li className="nav-item">
+                        <div 
+                            className="nav-link text-white nav-butt nav-button type1" 
                             onClick={() => setPage('ContactMe')}
                         >
                         <h4>//CONTACT ME</h4>
-                        </a>
+                        </div>
                     </li>
                 </ul>
             </div>

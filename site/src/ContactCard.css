@@ -1,5 +1,6 @@
 #myFace {
     border-radius: 50%;
+    max-width: 700px;
 }
 
 #contact-card {
@@ -11,4 +12,8 @@
 
 #contact-icons {
     content: icon;
+}
+
+.contact-stuff {
+    color: white;
 }
