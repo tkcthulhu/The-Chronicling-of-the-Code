@@ -95,27 +95,35 @@ export function Blog() {
                     Love it, for someone who has very little experience with any sort of actual coding but has done many projects of other sorts its incredibly helpful. I find that no 
                     matter what project I'm working on that it is only as good as how well I've planned it. This is a great way for me to break things down into steps that I can then look 
                     up and get the actual syntax for what I'm trying to achieve and learn.
+                    <br/>
+                    <br/>
                 </p>  
-                <p className="text-white">
-                <strong>09/16/2022</strong>
-
+                <p className="text-white col-8">
+                <strong><h5>09/16/2022</h5></strong>
+                <br/>
+                <br/>
                 <em>What was helpful during Onboarding working remotely?</em>
-
+                <br/>
+                <br/>
                 Having the freedom to move around with personal life vs. school tasks as needed (i.e. picking up the kid from school, working on my own schedule, doing chores and such). 
                 Also even though we weren't in person, Josh and Jonathan were both super accommodating with questions and helping us out when we needed it which I wasn't sure how that was 
                 going to go when I heard that we would be remote for the first 4 weeks.
-
+                <br/>
+                <br/>
                 <em>What hindered your progress during Onboarding?</em>
-
+                <br/>
+                <br/>
                 Honestly the main thing that hindered progress was my own dersire to figure out things on my own without help, though that practice was quicky brought to end. The material 
                 is difficult and learning and asking questions is why I'm here in the first place.
-
+                <br/>
+                <br/>
                 <em>How did you overcome challenges during Onboarding?</em>
-
+                <br/>
+                <br/>
                 Sometimes, you just have to sit down and tell yourself "I am not moving until I make some damn progress", it'll be gritty and frustrating, and you'll have to eat some pride, 
                 once again, it's why I'm here.
 
-                </p>col-8             
+                </p>         
             </div>            
         </div>
     )
