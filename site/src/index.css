@@ -33,7 +33,7 @@
 }
 
 #navContainer {
-  animation: fadeIn 3s;
+  animation: fadeIn 1.5s;
   padding-top: 20px;
   padding-bottom: 20px;
   margin-bottom: 30px;
@@ -80,7 +80,7 @@
 }
 
 .page-div {
-  animation: fadeIn 3s;
+  animation: fadeIn 1.5s;
   padding-bottom: 20vh;
 }
 
@@ -128,5 +128,11 @@
 }
 
 .tech-stack-title {
+  margin-bottom: 20px;
+}
+
+.tech-icon {
+  height: 80px;
+  margin: 10px;
   margin-bottom: 20px;
 }

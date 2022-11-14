@@ -4,7 +4,7 @@ import { Blog } from './Blog'
 import { AboutMe } from './About-Me';
 import { ProjectsPage } from './Projects';
 import { ContactCard } from './contact-card';
-import './button-effects.sass'
+
 
 export function Navbar() {
 
@@ -20,7 +20,7 @@ export function Navbar() {
                             className="nav-link text-white nav-butt nav-button type1" 
                             onClick={() => setPage('Blog')}
                         >
-                        <h4>//BLOG</h4>    
+                            <h4>//BLOG</h4>    
                         </div>
                     </li>
                     <li className="nav-item">
@@ -28,7 +28,7 @@ export function Navbar() {
                             className="nav-link text-white nav-butt nav-button type1" 
                             onClick={() => setPage('AboutMe')}
                         >
-                        <h4>//ABOUT ME</h4>
+                            <h4>//ABOUT ME</h4>
                         </div>
                     </li>
                     <li className="nav-item">
@@ -36,7 +36,7 @@ export function Navbar() {
                             className="nav-link text-white nav-butt nav-button type1" 
                             onClick={() => setPage('MyWork')}
                         >
-                        <h4>//MY WORK</h4>
+                            <h4>//MY WORK</h4>
                         </div>
                     </li>
                     <li className="nav-item">
@@ -44,7 +44,7 @@ export function Navbar() {
                             className="nav-link text-white nav-butt nav-button type1" 
                             onClick={() => setPage('ContactMe')}
                         >
-                        <h4>//CONTACT ME</h4>
+                            <h4>//CONTACT ME</h4>
                         </div>
                     </li>
                 </ul>

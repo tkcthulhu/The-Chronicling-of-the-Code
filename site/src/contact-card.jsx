@@ -85,3 +85,5 @@ export function ContactCard() {
         </div>
     )
 }
+
+// webp format
