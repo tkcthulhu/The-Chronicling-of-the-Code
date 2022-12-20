@@ -10,11 +10,25 @@ export function ProjectsPage(props) {
             link: 'https://tola-c43c5.web.app/'
         },
         {
+            name: 'Listy Business',
+            iframe:  <iframe title='Listy Business' src="https://tkcthulhu.github.io/listy-business/" frameborder="0" height="844" width="390" className="project proj-preview"/>,
+            dateCompleted: '10/21/2022',
+            description: 'So this was our next step in learning about state and using React to pass props and information to components, I created a multi list function with filtering and honestly it was probably the hardest that I had pushed myself to date in the bootcamp. However the payoff was fantastic, the project was definetly not the prettiest that I have built, but the functionality was something I was very proud of.',
+            link: 'https://github.com/tkcthulhu/listy-business'
+        },
+        {
             name: 'Thicc Tac Toe',
             iframe: <iframe title='Thicc Tac toe' src="https://tkcthulhu.github.io/thicc-tac-toe/" frameborder="1" height="600" width="800" className="project proj-preview"/>,
             dateCompleted: '10/07/2022',
             description: `The first truly heavy logic lift in our class, this was a challenge that I found incredibly satisfying every obsticle that I was able to overcome. I started this project out by trying first to make it possible to play the game completely in the console with no visual aids, which I did by creating the game board as an array, and creating a function that would loop through and log the indexes for "X" and "O", after that it would run through several possibilities for the win conditions availible on the board. After that I tackled the front end and making it look like a game that I would actually enjoy playing, I used screen record with Notability on my ipad to create the drawing effect of the different marks on the board, I thought it added a nice casual style touch to the game. Lastly I decided to take my first attempt at an AI, which, while tic-tac-toe is to us a simple game, this drove the point home to me of how methodical you must be when explaining a task to a computer, how to tell it what to look for, and in what EXACT order it needs to look for those things. While this is still a very simple AI, with only 7 weeks of programming under my belt at the time I was and still am very proud of it. **SIDE NOTE (If you want to play the AI you have to click the AI button in the bottom right hand corner to trigger an AI move)`,
             link: 'https://github.com/tkcthulhu/thicc-tac-toe',
+        },
+        {
+            name: '5CAST',
+            iframe:  <iframe title='5CAST' src="https://tkcthulhu.github.io/5CAST/" frameborder="0" height="844" width="390" className="project proj-preview"/>,
+            dateCompleted: '10/01/2022',
+            description: 'Pushing the envelop of state in this one, also the first time working with Geolacation for the first time so getting that to work was pretty cool. This also has my first attempt at error handling which was a little ham fisted but hey, it\'s all about the process and learning. I can\'t wait to see what else we create over the course of this bootcamp!',
+            link: 'https://github.com/tkcthulhu/5CAST'
         },
         {
             name: 'The Mind Reader',
