@@ -7,7 +7,7 @@ export function ProjectsPage(props) {
             dateCompleted: 'Most recent iteration 12/14/2022 *Still in progress*',
             description: 'Tola which is the norse word meaning \"to endure"\
             The inspiration for this project is my personal workout routine, as someone who works with a coach that uses a strength based training model, it either requires you to write all of your workouts in a notebook ahead of time or remember a bunch of numbers and percentages and do math while you’re hot and sweaty and trying to lift weights which is not fantastic. Having shared this frustration with other athletes I knew exactly what I wanted to build. Tola is a tool to keep track of your maxes, keep track of your programming, what exercises still need to be done, the weight that needs to be lifted, how many reps to do and it displays it in a format that is easy to read and interact with. Over the course of this project I have learned how to create a complex database, tie all the information together, and pull all of it into a well structured and intuitive user experience. With future iterations I plan to fully implement coach users, add a social aspect to gyms and add team functionalities.',
-            link: 'Front End: https://github.com/tkcthulhu/tola Back End: https://github.com/tkcthulhu/tola-api'
+            link: 'https://github.com/tkcthulhu/tola'
         },
         {
             name: 'Listy Business',
