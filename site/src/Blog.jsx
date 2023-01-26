@@ -13,7 +13,103 @@ export function Blog() {
                     <br/>
                 </span>
                 <p className="text-white col-8">
+                    <strong><h5>12/31/2022</h5></strong>
+                    <br/>
+                    <br/>
+                    Well, this has been the year of the journey for me, I left my previous profession of almost 10 years to pursue something more fufilling. 
+                    I tried a few different avenues and couldn't really seem to find something I liked, I have struggled a lot this year until I finally landed at the bootcamp.
+                    my family has been through a lot over that time, my wife and I have worked day and night to keep our house running and keep the lights on, but it has been worth
+                    it. After taking these last few weeks to have some rest and take a step back from the computer and ground myself, I'm reminded again of my 'why' that I 
+                    wrote on that note card so many weeks ago. I have spent more time with my family in the last 2 weeks than I have all year and I couldn't be more more grateful
+                    for all the wonderful things in my life. The future, while still daunting, is looking brighter and brighter, always forward, never back.
+                    <br/>
+                    <br/>
+                </p>
+                <p className="text-white col-8">
+                    <strong><h5>11/26/2022</h5></strong>
+                    <br/>
+                    <br/>
+                    <em>Describe Agile Development or a specific ceremony (stand up, retro, sprints, etc.)</em>
+                    <br/>
+                    <br/>
+                    In Agile Development the thing that I have found to be most helpful to me is breaking up huge projects that seem almost impossible at first and breaking them up 
+                    into easy to manage, bite sized chunks called tickets. This way you have a clear and definite goal for each piece of the puzzle and can make measurable progress. 
+                    You also get that sweet seratonin hit of adding tickets to the done pile and watching the stack grow. I'm also a huge fan of the way that most agile companies are 
+                    fairly lax on the work day timing, as long as your work is completed to satisfaction by deadline, you are in good standing.
+                    <br/>
+                    <br/>
+                    <em>Convince someone who does not use frameworks why using a framework is beneficial. (Bootstrap, React, Django, or DRF)</em>
+                    <br/>
+                    <br/>
+                    So let's go with DRF or Django REST Framework, the benefits here are that you can create incredibly complex databases and send information back and forth from 
+                    frontend to backend while only having to focus on the problem at hand. I never have to stop and completely build a feature from scratch or spend hours trying to 
+                    figure out the networking, someone much smarter than me has already done that. All I have to focus on is adapting documentation and examples to the current 
+                    problem I am facing.
+                    <br/>
+                    <br/>
+                </p>
+                <p className="text-white col-8">
+                    <strong><h5>11/11/2022</h5></strong>
+                    <br/>
+                    <br/>
+                    <em>What are you struggling with the most in the Tech Stack so far and why?</em>
+                    <br/>
+                    <br/>
+                    Mainly the networking of databases and how the different tables connect to each other, especially in a more complex app, putting these all together and
+                    networking the proper tables to the proper portions of the apps are definetly going to require more planning than some other aspects of the programming 
+                    process. It's also the newest part of the stack for me to once I've really had some time to wrap my head around these things it'll be easier.
+                    <br/>
+                    <br/>
+                    <em>What companies or people (local or not) would you like to hear talk during a Bootcamp lunch and learn?</em>
+                    <br/>
+                    <br/>
+                    I would really like to hear from LightWell, and maybe some mobile app development or game development companies, or even cyber security I know that 
+                    obviously focus of our bootcamp is web development, but seeing more variety of what we can work on with these new skills long term would be awesome.
+                    <br/>
+                    <br/>
+                    <em>After having built your first full-stack application, what things in your repertoire are a sticking point for you? Were you able to reconnect your React 
+                    Restaurant to your Backend Bistro code? If so, what was that like, and if not, what hurdles did you need to jump? </em>
+                    <br/>
+                    <br/>
+                    I guess the hardest hurdle this week has more or less been the realization of where we are in the process, like, we are almost out of this bootcap and on
+                    to the real world again, it's terrifying and exciting at the same time. I didn't really have a whole lot of huge problems with the connection other than 
+                    just getting the CORS stuff ironed out and learning what I need to do there. It does make me a little nervous for building something with user authentication
+                    and more advanced security but hey... I'll have to build it eventually right?
+                    <br/>
+                    <br/>
+                </p>
+                <p className="text-white col-8">
                     <strong><h5>11/04/2022</h5></strong>
+                    <br/>
+                    <br/>
+                    <em>What are some similarities and differences you can see with JS and Python?</em>
+                    <br/>
+                    <br/>
+                    In my opinion they are fairly similar in logic, Python has a lot more straight forward syntax and easier implementation of some functionalities like
+                    the sum of an array, but then if we try to do a loop, suddenly I have to manually create and increment an iterable if I want to use one, and there are 
+                    little back and forths like that throughout both of them, in retrospect I am much happier that we learned JavaScript first because with the amount of 
+                    syntax required for a JS or JSX document, learning the quirks of python was a piece of cake (Except for sibling file imports, don't got there, that 
+                    place is evil.)
+                    <br/>
+                    <br/>
+                    <em>If you had started with Python instead of JS, how do you think the Bootcamp would be different? Would you have benefited?</em>
+                    <br/>
+                    <br/>
+                    I kind of covered this in my last answer but I do feel like Python to JS would have been a much heavier lift than JS to Python was, with the easy to
+                    read syntax and plain english quality I think I might have had a harder time understanding what was going on in JS coming from Python whereas going JS 
+                    into Python I could understand what was happening off the bat and picking up the syntax wasn't difficult.
+                    <br/>
+                    <br/>
+                    <em>Think of a project or tech based tool that you use often and think about what the database structure might look like for it. Do you feel like you have a 
+                    better understanding of how it works now and could you see yourself enjoying building something like that in the future?</em>
+                    <br/>
+                    <br/>
+                    Working with the databases this week has definetly started to give me an idea of what constructing the full back end of an application can take and I 
+                    have a huge appreciation for it. I have started turning some gears as far as figuring out how I'm going to need to structure the backend of my final 
+                    project and I plan on in the coming weeks trying to map out that database with a flow chart. I wish I hadn't gotten sick this week because I feel like 
+                    I have a decent gap to make up for Thursdays build time because thats usually the day I really hit that full grasp of the concepts and have everything 
+                    click, hopefully I'll have some time this weekend to dig a little farther into join and inserts and some other SQL fucntionalities. I really want to be 
+                    able to monetize my final project long term and a solid database is going to be a huge part of making a clean and well fucntioning application.
                     <br/>
                     <br/>
                 </p>
