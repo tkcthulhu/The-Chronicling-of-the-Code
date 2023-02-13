@@ -13,6 +13,30 @@ export function Blog() {
                     <br/>
                 </span>
                 <p className="text-white col-8">
+                    <strong><h5>2/10/2023</h5></strong>
+                    <br/>
+                    <br/>
+                    These past few weeks have been all about learning C#, so far I've built close to 10 projects in the language and have been working on a new iteration of the 
+                    EverCraft Kata (https://github.com/PuttingTheDnDInTDD/EverCraft-Kata) which is a challenge to build a character creation module using Object Oriented Programming
+                    and test driven development. Getting comfortable in Visual Studio has taken some time and Microsoft... come one, just give me the keyboard shortcuts from 
+                    Visual Studio Code! I miss my multicursors!! Other than that though, the IDE makes it incredibly simple to set up and network projects in a .NET Core 
+                    environment and the built in testing suite is excellent, networking it with the GitHub Desktop Client was surprisingly simple. 
+
+                    The job hunt goes on, but I still feel confident that I will get the job I'm meant to have here. To be perfectly honest, last week was rough, we talk about "The Desert of Despair" alot in bootcamp, and man I was in it. I hit about 50
+                    apps put out into the wild and so far have only heard back on one (recruiters, please just let me know one way or another) and I was feeling pretty down on the 
+                    whole process. I met up with one of my friends that went through the same bootcamp that I did though, and we had an excellent discussion, he was in the job market for
+                    nearly 4 months, and put out nearly 200 applications before he got into the role he is in now. The takeaway from that for me though was that he is happier
+                    in his work than he has ever been in his life, and there's a reason he recommended this to me. 
+
+                    I also came across a notecard in my backpack from bootcamp that I wrote to myself so many weeks ago, we called it the "why" statement, why am I doing this? 
+                    Why did I choose this path? Now as it was back then, my reason is my family, I want a career where I'm not spending every waking second running around trying
+                    to make ends meet, where I have time with my family, where I'm not so dog tired at the end of a shift that I jsut pass out on the couch after being home for 5
+                    minutes. My family deserves better than that, and so do I. So I'm hitting the ground next week running, with renewed moral, becasue I remember why I'm on this 
+                    path.
+                    <br/>
+                    <br/>
+                </p>
+                <p className="text-white col-8">
                     <strong><h5>1/20/2023</h5></strong>
                     <br/>
                     <br/>
