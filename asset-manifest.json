@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The-Chronicling-of-the-Code/static/css/main.a056d4a3.css",
-    "main.js": "/The-Chronicling-of-the-Code/static/js/main.784b8ccc.js",
+    "main.js": "/The-Chronicling-of-the-Code/static/js/main.26cfc157.js",
     "static/js/787.dd4029b4.chunk.js": "/The-Chronicling-of-the-Code/static/js/787.dd4029b4.chunk.js",
     "static/media/consalvi-tyler.jpg": "/The-Chronicling-of-the-Code/static/media/consalvi-tyler.a19e623239f5fc96f1e2.jpg",
     "static/media/home.jpg": "/The-Chronicling-of-the-Code/static/media/home.473cf1e39c511a117d65.jpg",
@@ -11,11 +11,11 @@
     "static/media/logoName.png": "/The-Chronicling-of-the-Code/static/media/logoName.3ed0fe3d29fd3e9d95e1.png",
     "index.html": "/The-Chronicling-of-the-Code/index.html",
     "main.a056d4a3.css.map": "/The-Chronicling-of-the-Code/static/css/main.a056d4a3.css.map",
-    "main.784b8ccc.js.map": "/The-Chronicling-of-the-Code/static/js/main.784b8ccc.js.map",
+    "main.26cfc157.js.map": "/The-Chronicling-of-the-Code/static/js/main.26cfc157.js.map",
     "787.dd4029b4.chunk.js.map": "/The-Chronicling-of-the-Code/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a056d4a3.css",
-    "static/js/main.784b8ccc.js"
+    "static/js/main.26cfc157.js"
   ]
 }
